@@ -1,6 +1,7 @@
 -  Hi there, I’m Enock kyei👋
-- 👀 I am a Petroleum engineering student/Data Scientist looking to bridge the gap between these two worlds 
-- 🌱 I’m currently learning everything data science, dev ops
+- 👀 A highly motivated and versatile software engineer, machine Learning and deep learning practitioner with 1.5+ years of combined internship and projects   
+- experience in executing data-driven solutions to increase efficiency, accuracy and utilization of internal data processing. 
+- 🌱 I’m currently learning everything deep learning
 - 💞️ I’m looking to collaborate on any real world project I find
 - 📫 enock.kwesi.kyei@gmail.com is always open
 
