@@ -1,5 +1,5 @@
 -  # Hi there, I’m Enock kyei👋
-- A highly motivated and versatile engineer, machine Learning and deep learning practitioner with 1.5+ years of combined internship and projects   
+- A highly motivated and versatile engineer, machine Learning and deep learning practitioner with 5+ years of combined internship and projects   
 - I have concrete experience in executing data-driven solutions to increase efficiency, accuracy and utilization of internal data processing. 
 - I occasionally write articles about topics I learn about on [DEV.to](https://dev.to/kekyei)
 - I also share my professional and academic journey on my [linkedin](https://www.linkedin.com/in/enock-kyei/)
