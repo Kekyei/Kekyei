@@ -1,4 +1,5 @@
--  # Hi there, I’m Enock kyei👋
+-  # Hi there, I’m Enock kyei and I'm building Watt Waste👋
+-  Check out my team's pitch at the  in Ghana SAGE Global National High School Entrepreneuship competition (NHSEC)]([https://dev.to/kekyei](https://x.com/AuguscoSage/status/1149651956509470730?s=20)) 
 - A highly motivated and versatile machine Learning and deep learning developer with 5+ years of combined internship and projects   
 - I have concrete experience in executing data-driven solutions to increase efficiency, accuracy and utilization of internal data processing. 
 - I occasionally write articles about topics I learn about on [DEV.to](https://dev.to/kekyei)
